@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ejemplo_ListBox/1.0.0": {
+        "runtime": {
+          "Ejemplo_ListBox.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejemplo_ListBox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\fuent\source\repos\Ejemplo_ListBox\bin\Debug\net8.0-windows\Ejemplo_ListBox.exe
+C:\Users\fuent\source\repos\Ejemplo_ListBox\bin\Debug\net8.0-windows\Ejemplo_ListBox.deps.json
+C:\Users\fuent\source\repos\Ejemplo_ListBox\bin\Debug\net8.0-windows\Ejemplo_ListBox.runtimeconfig.json
+C:\Users\fuent\source\repos\Ejemplo_ListBox\bin\Debug\net8.0-windows\Ejemplo_ListBox.dll
+C:\Users\fuent\source\repos\Ejemplo_ListBox\bin\Debug\net8.0-windows\Ejemplo_ListBox.pdb
+C:\Users\fuent\source\repos\Ejemplo_ListBox\obj\Debug\net8.0-windows\Ejemplo_ListBox.Form1.resources
+C:\Users\fuent\source\repos\Ejemplo_ListBox\obj\Debug\net8.0-windows\Ejemplo_ListBox.csproj.GenerateResource.cache
+C:\Users\fuent\source\repos\Ejemplo_ListBox\obj\Debug\net8.0-windows\Ejemplo_ListBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuent\source\repos\Ejemplo_ListBox\obj\Debug\net8.0-windows\Ejemplo_ListBox.AssemblyInfoInputs.cache
+C:\Users\fuent\source\repos\Ejemplo_ListBox\obj\Debug\net8.0-windows\Ejemplo_ListBox.AssemblyInfo.cs
+C:\Users\fuent\source\repos\Ejemplo_ListBox\obj\Debug\net8.0-windows\Ejemplo_ListBox.csproj.CoreCompileInputs.cache
+C:\Users\fuent\source\repos\Ejemplo_ListBox\obj\Debug\net8.0-windows\Ejemplo_ListBox.dll
+C:\Users\fuent\source\repos\Ejemplo_ListBox\obj\Debug\net8.0-windows\refint\Ejemplo_ListBox.dll
+C:\Users\fuent\source\repos\Ejemplo_ListBox\obj\Debug\net8.0-windows\Ejemplo_ListBox.pdb
+C:\Users\fuent\source\repos\Ejemplo_ListBox\obj\Debug\net8.0-windows\Ejemplo_ListBox.genruntimeconfig.cache
+C:\Users\fuent\source\repos\Ejemplo_ListBox\obj\Debug\net8.0-windows\ref\Ejemplo_ListBox.dll
+C:\Users\fuent\source\repos\Ejemplo_ListBox\obj\Debug\net8.0-windows\Ejemplo_ListBox.FormDescripcion.resources
